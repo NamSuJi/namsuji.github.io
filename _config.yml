@@ -13,7 +13,7 @@ baseurl         : ""
 # Owner/author information
 owner:
   name:           Nam
-  avatar:         hmfaysal.jpg
+  avatar:         moon.png
   email:          01928abcd@naver.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    블로그입니다
