@@ -1,6 +1,6 @@
-title:            Nam
-description:      "my blog"
-logo:             logo.png
+title:            Nam' Blog
+description:      "도움이 되길 바람"
+logo:             n.png
 disqus_shortname: Nam
 share:            true
 dropcap:			true
@@ -26,10 +26,10 @@ owner:
   #google_plus:    https://plus.google.com/u/0/102602916593522619858
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:   UA-39365944-7
+google_analytics:   UA-39365944-7
 #google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-#bing_verify:         
+bing_verify:         
 
 # Links to include in footer navigation
 # For external links add external: true
