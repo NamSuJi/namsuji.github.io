@@ -10,4 +10,4 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
 #
 # 
 > ## Github 계정 및 Repository 생성
- ![howtomakeblog1](./_postImage/howtomakeblog1.PNG)
+ ![howtomakeblog1](https://github.com/NamSuJi/namsuji.github.io/tree/master/_postImage/howtomakeblog1.PNG)
