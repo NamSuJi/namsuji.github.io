@@ -47,10 +47,14 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
 
 > ## 순서
  >> 1. 블로그 [참조](https://github.com/hmfaysal/Notepad) 에서 ZIP 파일로 다운 받는다  
+ 
  ![howtomake8](https://user-images.githubusercontent.com/52815908/71949085-8aa51c80-3215-11ea-9a52-c0f274d8b51b.PNG)
- >> 2. 압축을 푼 후 post 폴더의 포스트를 삭제한다 , 나는 참고용으로 남겨뒀다<br>
+ >> 2. 압축을 푼 후 post 폴더의 포스트를 삭제한다 , 나는 참고용으로 남겨뒀다  
+ 
  >> 3. images 에 cover을 제외한 모든 사진을 삭제한다, 그 후 자신의 프로필 사진, 로고 사진을 폴더에 추가한다 + 로고 사진은 아래 사진 위치에도 저장해준다
-  ![howtomake9](https://user-images.githubusercontent.com/52815908/71949086-8b3db300-3215-11ea-835a-dc27d13620e2.PNG)
-  ![howtomake10](https://user-images.githubusercontent.com/52815908/71949087-8b3db300-3215-11ea-8089-21fc9926b338.PNG)
+  ![howtomake9](https://user-images.githubusercontent.com/52815908/71949086-8b3db300-3215-11ea-835a-dc27d13620e2.PNG)  
+  
+  ![howtomake10](https://user-images.githubusercontent.com/52815908/71949087-8b3db300-3215-11ea-8089-21fc9926b338.PNG)  
+  
  >> 4. Git 부분에서 만들어진 모든 파일을 폴더에 옮겨준다.  
  ![howtomake11](https://user-images.githubusercontent.com/52815908/71949088-8b3db300-3215-11ea-918c-073675ad0df8.PNG)
