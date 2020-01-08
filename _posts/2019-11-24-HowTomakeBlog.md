@@ -1,3 +1,19 @@
+---
+layout: post
+title: "블로그 시작"
+description: 
+headline: 
+modified: 2019-11-12
+category: webdevelopment
+tags: [jekyll]
+imagefeature: 
+mathjax: 
+chart: 
+comments: true
+share: true
+featured: true
+---
+
 Github 블로그 만들기
 ==================
 
@@ -25,6 +41,6 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
 
 > 순서
  #### 1. https://github.com/hmfaysal/Notepad 에서 ZIP 파일로 다운 받는다
- #### 2. 압축을 푼 후 _post 폴더의 포스트를 삭제한다 , 나는 참고용으로 남겨뒀다
+ #### 2. 압축을 푼 후 post 폴더의 포스트를 삭제한다 , 나는 참고용으로 남겨뒀다
  #### 3. images 에 cover을 제외한 모든 사진을 삭제한다, 그 후 자신의 프로필 사진, 로고 사진을 폴더에 추가한다 + 로고 사진은 아래 사진 위치에도 저장해준다 
  #### 4. Git 부분에서 만들어진 모든 파일을 폴더에 옮겨준다.
