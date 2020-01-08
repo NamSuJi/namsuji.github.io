@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "블로그 시작"
+title: "블로그 만들기"
 description: 
 headline: 
-modified: 2019-11-12
+modified: 2019-11-24
 category: webdevelopment
 tags: [jekyll]
 imagefeature: 
