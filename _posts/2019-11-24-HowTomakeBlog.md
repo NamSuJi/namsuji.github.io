@@ -15,6 +15,6 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
  ![image](/_postImage/howtomake1.PNG)
  #### 2. 가입 후 새로운 레포지토리 생성 -> 레포지토리 이름(자신의ID.github.io) -> README.md 는 생성 X 
  ![image](/_postImage/howtomake2.PNG)
- #### 3.
+ #### 3. 만들어진 레포지토리로 들어가 아래와 같이 색칠된 주소 
  ![image](/_postImage/howtomake3.PNG)
  
