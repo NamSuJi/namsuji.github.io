@@ -81,4 +81,5 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
 >>>
 >>> ![howtomake12](https://user-images.githubusercontent.com/52815908/71951776-8c73dd80-321f-11ea-9c72-21b92ddd782b.png)
 >>>
+>>> 카테고리 부분
 >>> ![howtomake12-1](https://user-images.githubusercontent.com/52815908/71951778-8d0c7400-321f-11ea-8e7d-e5adf5d001d6.png)
