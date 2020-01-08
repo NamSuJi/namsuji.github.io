@@ -74,3 +74,11 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
 >>> git remote add origin https://github.com/자신의ID/자신의ID.github.io.git
 >>> git push -u origin master
 >>> ```
+
+> ## Github에서 코드 수정
+>> 1. 아래 파일 선택 후 코드 수정
+>>> ![howtomake12-0](https://user-images.githubusercontent.com/52815908/71951777-8c73dd80-321f-11ea-9228-e693697f4e0f.PNG)
+>>>
+>>> ![howtomake12](https://user-images.githubusercontent.com/52815908/71951776-8c73dd80-321f-11ea-9c72-21b92ddd782b.png)
+>>>
+>>> ![howtomake12-1](https://user-images.githubusercontent.com/52815908/71951778-8d0c7400-321f-11ea-8e7d-e5adf5d001d6.png)
