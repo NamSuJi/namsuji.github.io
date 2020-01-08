@@ -50,10 +50,10 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
  >>> ![howtomake10](https://user-images.githubusercontent.com/52815908/71949087-8b3db300-3215-11ea-8089-21fc9926b338.PNG)  
  >> 4. Git 부분에서 만들어진 모든 파일을 폴더에 옮겨준다.  
  >>> ![howtomake11](https://user-images.githubusercontent.com/52815908/71949088-8b3db300-3215-11ea-918c-073675ad0df8.PNG)
- >> ```
- >> git init
- >> git add *
- >> git commit -m "first commit"
- >> git remote add origin https://github.com/자신의ID/자신의ID.github.io.git
- >> git push -u origin master
- >> ```
+ >> 5. 옮긴 후 아래와 같이 열어둔 Git Bash 창에 입력해준다
+ >>> ```
+ >>> git add *
+ >>> git commit -m "first commit"
+ >>> git remote add origin https://github.com/자신의ID/자신의ID.github.io.git
+ >>> git push -u origin master
+ >>> ```
