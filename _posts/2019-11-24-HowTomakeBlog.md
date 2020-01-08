@@ -41,7 +41,7 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
  >> 2. blog 파일에서 마우스 우클릭 -> Git Bash Here 클릭
  ![howtomake6](https://user-images.githubusercontent.com/52815908/71948917-0eaad480-3215-11ea-9c0e-2ace7408d0dc.PNG)
  >> 3. 아래와 같이 입력
- ![howtomake7](src="https://user-images.githubusercontent.com/52815908/71948931-166a7900-3215-11ea-81dd-b312b964346b.PNG)
+ ![howtomake7](https://user-images.githubusercontent.com/52815908/71948931-166a7900-3215-11ea-81dd-b312b964346b.PNG)
 
 
 > ## 순서
