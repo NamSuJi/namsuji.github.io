@@ -27,12 +27,10 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
 > ## Github 계정 및 Repository 생성
  >> 1. 깃허브 메인 페이지로 들어가 준다 -> sign up 클릭 -> 가입
  ![howtomake1](https://user-images.githubusercontent.com/52815908/71948623-f1293b00-3213-11ea-9bca-fec744ac7bea.PNG)
-
  >> 2. 가입 후 새로운 레포지토리 생성 -> 레포지토리 이름(자신의ID.github.io) -> README.md 는 생성 X 
  ![howtomake2](https://user-images.githubusercontent.com/52815908/71948688-2c2b6e80-3214-11ea-8cf7-7573854a3913.PNG)
  >> 3. 만들어진 레포지토리로 들어가 아래와 같이 색칠된 주소 복사 
  ![howtomake3](https://user-images.githubusercontent.com/52815908/71948689-2c2b6e80-3214-11ea-90bf-db9120feac62.PNG)
-   
    
 > ## Git 부분
  >> * 설치되어 있지 않은 경우 -> [여기로](https://git-scm.com/downloads) 이동 후 자신에게 맞는 운영체제로 설치  
