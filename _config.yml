@@ -118,8 +118,8 @@ prose:
               value: personal
             - name: "Engineering"
               value: engineering
-            - name: "Interesting"
-              value: interesting
+            - name: "Markdown"
+              value: markdown
             - name: "Web-Development"
               value: webdevelopment
           alterable: true
