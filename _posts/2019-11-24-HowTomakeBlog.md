@@ -10,5 +10,6 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
 #
 # 
 > ## Github 계정 및 Repository 생성
+
+ 1. 깃허브 메인 페이지로 들어가 줍니다.
  ![image](/_postImage/howtomake1.PNG)
- 깃허브 메인 페이지로 들어가 줍니다.
