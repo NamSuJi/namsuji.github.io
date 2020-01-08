@@ -42,7 +42,8 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
  ![howtomake6](https://user-images.githubusercontent.com/52815908/71948917-0eaad480-3215-11ea-9c0e-2ace7408d0dc.PNG)
  >> 3. 아래와 같이 입력
  ![howtomake7](https://user-images.githubusercontent.com/52815908/71948931-166a7900-3215-11ea-81dd-b312b964346b.PNG)
-
+ >> 4. 결과 - 생성한 레포지토리가 로컬 폴더에 생긴다
+ ![howtomake7-1](https://user-images.githubusercontent.com/52815908/71949035-621d2280-3215-11ea-94cb-a8c61e44647f.PNG)
 
 > ## 순서
  >> 1. 블로그 [참조](https://github.com/hmfaysal/Notepad) 에서 ZIP 파일로 다운 받는다  
