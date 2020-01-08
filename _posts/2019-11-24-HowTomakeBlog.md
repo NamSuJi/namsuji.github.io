@@ -18,3 +18,5 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
  #### 3. 만들어진 레포지토리로 들어가 아래와 같이 색칠된 주소 복사 
  ![image](/_postImage/howtomake3.PNG)
  
+> ## Git 설치 여부
+ * 설치되어 있지 않은 경우 -> https://git-scm.com/downloads 이동 후 자신에게 맞는 운영체제로 설치
