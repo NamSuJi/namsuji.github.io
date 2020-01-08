@@ -26,7 +26,7 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
 
 > ## Github 계정 및 Repository 생성
  >> 1. 깃허브 메인 페이지로 들어가 준다 -> sign up 클릭 -> 가입
- ![]({{site.url}}/_postImage/howtomake1.PNG)  
+ ![](/_postImage/howtomake1.PNG)  
  >> 2. 가입 후 새로운 레포지토리 생성 -> 레포지토리 이름(자신의ID.github.io) -> README.md 는 생성 X 
  ![image](/_postImage/howtomake2.PNG)  
  >> 3. 만들어진 레포지토리로 들어가 아래와 같이 색칠된 주소 복사 
