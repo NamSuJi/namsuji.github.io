@@ -5,7 +5,7 @@ description:
 headline: 
 modified: 2019-11-24
 category: webdevelopment
-tags: [jekyll]
+tags: [Github, blog, jekyll]
 imagefeature: 
 mathjax: 
 chart: 
