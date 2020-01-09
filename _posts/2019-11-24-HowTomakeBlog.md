@@ -25,8 +25,9 @@ Jekyll을 이용하는 방법도 Ruby를 설치해서 하는 방법, 다른 분�
 거의 똑같겠지만 제가 어떻게 만들 수 있었는지 보여드리려 합니다.  
 
 > ## Github 계정 및 Repository 생성
+>
 >> 1.깃허브 메인 페이지로 들어가 준다 -> sign up 클릭 -> 가입
-![howtomake1](https://user-images.githubusercontent.com/52815908/71948623-f1293b00-3213-11ea-9bca-fec744ac7bea.PNG)
+>>> ![howtomake1](https://user-images.githubusercontent.com/52815908/71948623-f1293b00-3213-11ea-9bca-fec744ac7bea.PNG)
 >>
 >> 2.가입 후 새로운 레포지토리 생성 -> 레포지토리 이름(자신의ID.github.io) -> README.md는 생성 X
 >>> * 자신의ID와 다른 블로그 생성 시 제대로 생성되지 않습니다. 저는 사진을 보여드리기 위해 임시로 만든 것이니 반드시 자신의ID로 생성해주셔야합니다
