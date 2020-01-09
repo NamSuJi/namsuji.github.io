@@ -122,6 +122,8 @@ prose:
               value: markdown
             - name: "Web-Development"
               value: webdevelopment
+            - name: "MySQL"
+              value: mysql
           alterable: true
       - name: "tags"
         field:
