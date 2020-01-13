@@ -18,6 +18,6 @@ featured: true
 >> 대부분의 글에서 데이터를 쉽게 받기 위해 클래스를 따로 만들어주고 ArrayList를 사용하였습니다.  
 >> 그렇지만 클래스를 따로 만들어주지 않고 ArrayList를 만들지 않아도 페이징을 할 수 없을까 생각하다가 직접 만들었습니다.  
 >> 코드는 [web](https://github.com/NamSuJi/Web/tree/master/Board)에 저장해두었습니다.  
-<br>
-<br>
+>>
+>>
 >> ![listPaging](https://user-images.githubusercontent.com/52815908/72235016-274f2c00-3613-11ea-9442-913e0fe87441.png)
