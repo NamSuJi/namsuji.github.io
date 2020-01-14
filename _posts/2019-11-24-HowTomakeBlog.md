@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "블로그 만들기"
+title: "[블로그 만들기"
 description: 
 headline: 
 modified: 2019-11-24
