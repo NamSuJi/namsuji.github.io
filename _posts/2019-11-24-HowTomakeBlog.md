@@ -4,7 +4,7 @@ title: "블로그 만들기"
 description: 
 headline: 
 modified: 2019-11-24
-category: webdevelopment
+category: gitblog
 tags: [Github, blog, jekyll]
 imagefeature: 
 mathjax: 
