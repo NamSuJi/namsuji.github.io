@@ -124,6 +124,8 @@ prose:
               value: webdevelopment
             - name: "MySQL"
               value: mysql
+            - name: "Github"
+              value: github
           alterable: true
       - name: "tags"
         field:
