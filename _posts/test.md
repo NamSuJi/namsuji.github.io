@@ -1,1 +1,1 @@
-![alt](./postimage/dirimage.JPG)
+![alt](/postimage/dirimage.JPG)
