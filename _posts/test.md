@@ -1,1 +1,0 @@
-![Alt](postimage/dirimage.jpg)
