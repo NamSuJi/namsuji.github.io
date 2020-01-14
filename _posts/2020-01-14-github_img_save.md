@@ -41,6 +41,5 @@ featured: true
 >
 > 2.3 `![]()`를 사용해 이미지 경로 입력 
 >> ![dirimage3](https://user-images.githubusercontent.com/52815908/72305898-96cb2700-36b8-11ea-8767-b3aeb6616df4.PNG)
-
-지금은 대부분 1의 방법을 쓰지만 이전에 생성한 레포지토리의 대부분은 2의 방법을 썼다.  
-2의 방법을 사용했지만 경로를 제대로 지정해줘도 이미지가 나타나지 않아 1의 방법을 사용하고 있다.  
+>
+> * `_posts` 디렉토리에서 `postimage`의 이미지를 사용하고 싶을 시에 경로는 `(/postimage/dirimage.JPG)`가 되어야한다.
