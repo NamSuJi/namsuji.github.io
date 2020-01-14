@@ -120,6 +120,8 @@ prose:
               value: engineering
             - name: "Markdown"
               value: markdown
+            - name: "GitBlog"
+              value: gitblog
             - name: "Web-Development"
               value: webdevelopment
             - name: "MySQL"
