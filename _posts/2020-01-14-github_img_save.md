@@ -19,7 +19,7 @@ featured: true
 1. Github의 Issue를 이용하는 방법  
 2. 해당 레포지토리에 이미지를 넣고 경로를 지정해주는 방법  
 
-> 1. Github의 Issue를 이용하는 방법
+> ### 1.Github의 Issue를 이용하는 방법
 > 
 > 1.1 레포지토리의 Issue에 들어가 New Issue를 클릭한다.
 >> ![issue1](https://user-images.githubusercontent.com/52815908/72305590-98e0b600-36b7-11ea-8dfe-37b887a8f885.PNG)
@@ -31,7 +31,7 @@ featured: true
 >> ![issue3](https://user-images.githubusercontent.com/52815908/72305628-ba41a200-36b7-11ea-84ca-b1bcb3ccbab8.PNG)
 >
 > 
-> 2. 해당 레포지토리에 이미지를 넣고 경로를 지정해주는 방법  
+> ### 2.해당 레포지토리에 이미지를 넣고 경로를 지정해주는 방법  
 > 
 > 2.1 레포지토리 안에 _image 디렉토리 생성
 >> ![dirimage1](https://user-images.githubusercontent.com/52815908/72305895-96329080-36b8-11ea-8e20-d83d45bd9311.PNG)
