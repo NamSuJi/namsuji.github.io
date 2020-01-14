@@ -1,27 +1,9 @@
-Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
-  
-Main Features:
+미숙한 실력이고 알려드릴 수 있는 정보들도 한정적이지만 알게된 정보를 최대한 공유하려고 합니다.  
 
-* Zurb Foundation 5 – css framework
-* Scss files with settings file
-* Fullscreen post covers with header wich will be bright or dark according to background image
-* Fast and light
-* Font Awesome
-* Disqus comments integration
+블로그의 메인은 이렇게 되어 있습니다.  
 
-You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
+![main](https://user-images.githubusercontent.com/52815908/72304413-d5aaae00-36b3-11ea-9c9d-76aa1d9fa96f.PNG)
 
-Credits:
+![category](https://user-images.githubusercontent.com/52815908/72304414-d5aaae00-36b3-11ea-8f20-ba592dd8f087.PNG)
+카테고리는 점차 추가될 예정입니다.  
 
-* Zurb Foundation 5 [http://foundation.zurb.com/](http://foundation.zurb.com/)
-* Font Awesome [http://fontawesome.io](http://fontawesome.io)
-* Google fonts [http://www.google.com/fonts](http://www.google.com/fonts)
-* Background check [http://kennethcachia.com/background-check](http://kennethcachia.com/background-check)
-* Codrops article: [http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
-* There are also tools like jQuery, Modernizr, Normalize.
-
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
-
-
-Warm Regards and Stay Creative,  
-Hossain Mohd. Faysal
