@@ -20,4 +20,11 @@ featured: true
 코드는 [web](https://github.com/NamSuJi/Web/tree/master/Board)에 저장해두었습니다.  
 추후 더 나은 코드로 업데이트될 수도 있습니다
 >>
+>> v1.0
+>>
 >> ![listPaging](https://user-images.githubusercontent.com/52815908/72235016-274f2c00-3613-11ea-9442-913e0fe87441.png)
+>
+>
+>> v1.1
+>>
+>>![list](https://user-images.githubusercontent.com/52815908/72486985-e132dc00-384f-11ea-97b7-2d5672fbd6c8.png)
