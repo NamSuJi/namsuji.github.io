@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[JSP]게시판 페이징-전체 게시물 수"
-description: 게시판 페이징하기 위해 전체 게시물 수 구하기
+description: 게시판 페이징하기 위해 전체 게시물 수 구하기,조회수 업데이트
 headline: 
 modified: 2020-01-15
 category: webdevelopment
@@ -23,6 +23,6 @@ featured: true
 >> ![Paging](https://user-images.githubusercontent.com/52815908/72394881-18838900-377b-11ea-9416-a33dfe42a726.png)
 >
 >
->> v1.1
+>> v1.1 - 조회수 업데이트하는 클래스 추가
 >>
 >>![paging](https://user-images.githubusercontent.com/52815908/72487040-0de6f380-3850-11ea-9aa8-f228779adbde.png)
