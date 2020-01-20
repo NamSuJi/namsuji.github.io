@@ -40,6 +40,8 @@ links:
     icon: home
   - title: Featured Posts
     url: /featured
+  - title: Tags
+    url: /tags
   - title: Categories
     url: /categories
   - title: About
