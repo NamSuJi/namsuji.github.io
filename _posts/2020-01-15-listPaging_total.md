@@ -5,7 +5,7 @@ description: 게시판 페이징하기 위해 전체 게시물 수 구하기,조
 headline: 
 modified: 2020-01-15
 category: webdevelopment
-tags: [Github, board, jekyll]
+tags: [JSP, board]
 imagefeature: 
 mathjax: 
 chart: 
