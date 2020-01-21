@@ -5,7 +5,7 @@ description: 이미지 저장하는 방법
 headline: 
 modified: 2020-01-14
 category: github
-tags: [Github, image, jekyll]
+tags: [Github, image]
 imagefeature: 
 mathjax: 
 chart: 
