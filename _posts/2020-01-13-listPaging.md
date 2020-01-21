@@ -5,7 +5,7 @@ description: 게시판 페이징하는 방법
 headline: 
 modified: 2020-01-13
 category: webdevelopment
-tags: [Github, board, jekyll]
+tags: [JSP, board]
 imagefeature: 
 mathjax: 
 chart: 
