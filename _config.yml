@@ -128,8 +128,8 @@ prose:
               value: webdevelopment
             - name: "MySQL"
               value: mysql
-            - name: "Github"
-              value: github
+            - name: "Markdown"
+              value: markdown
           alterable: true
       - name: "tags"
         field:
