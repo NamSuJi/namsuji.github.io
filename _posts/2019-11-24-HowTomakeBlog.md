@@ -11,7 +11,7 @@ mathjax:
 chart: 
 comments: true
 share: true
-featured: true
+featured: 
 ---
 
 Github 블로그 만들기
