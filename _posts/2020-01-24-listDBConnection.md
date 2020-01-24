@@ -3,7 +3,7 @@ layout: post
 title: "[JSP]게시판-DBConnection"
 description: 데이터 베이스에 접근하는 클래스
 headline: 
-modified: 2020-01-17
+modified: 2020-01-24
 category: webdevelopment
 tags: [JSP, board]
 imagefeature: 
