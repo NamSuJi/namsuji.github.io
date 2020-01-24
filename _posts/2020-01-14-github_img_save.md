@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "[Github]이미지 저장"
+title: "[Markdown]이미지 저장"
 description: 이미지 저장하는 방법
 headline: 
 modified: 2020-01-14
-category: github
-tags: [Github, image]
+category: markdown
+tags: [Github, Markdown, image]
 imagefeature: 
 mathjax: 
 chart: 
