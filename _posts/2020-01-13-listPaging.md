@@ -11,7 +11,7 @@ mathjax:
 chart: 
 comments: true
 share: true
-featured: true
+featured: 
 ---
 > ### 리스트 페이징
 >> 리스트 페이징을 하면서 많은 글을 참조하고 이해하고 사용해보려했지만 어려웠습니다.  
