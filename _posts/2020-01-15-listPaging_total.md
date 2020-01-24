@@ -11,7 +11,7 @@ mathjax:
 chart: 
 comments: true
 share: true
-featured: true
+featured: 
 ---
 > ### 리스트 페이징의 Paging.jsp
 >> 전체 게시물 수를 구하기 위해 사용되었습니다.  
