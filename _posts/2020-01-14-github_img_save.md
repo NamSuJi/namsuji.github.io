@@ -11,7 +11,7 @@ mathjax:
 chart: 
 comments: true
 share: true
-featured: true
+featured: 
 ---
 
 #### 이미지를 저장하는 방법으로 두 가지가 있다  
