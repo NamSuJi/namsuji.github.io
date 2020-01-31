@@ -18,4 +18,4 @@ featured: true
 >> 코드는 마찬가지로 [이곳](https://github.com/NamSuJi/Web/tree/master/Board)에 저장해두었습니다.  
 >> Connection과 Statement, ResultSet를 한꺼번에 관리해주기 위해 클래스를 생성하고 함수를 만들어주었습니다.  
 >
-> ![img](/postimage/Board/db.png)
+> ![img](/postimage/Board/dbconnect.png)
